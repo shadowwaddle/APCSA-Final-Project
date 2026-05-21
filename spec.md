@@ -13,7 +13,7 @@ Add your changes to spec.md
 
 - `isBooleanFixed`
   - Default (`false`)
-  - Becomes `true` when the player successfully uses the Truth Table on the Whiteboard in the Whiteboard Wall room.
+  - Becomes `true` when the player successfully uses the Truth Table on the Whiteboard in the Whiteboard Wall room. grtr
 
 - `isCodeDebugged`
   - Default (`false`)
