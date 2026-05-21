@@ -1,4 +1,3 @@
-Add your changes to spec.md
 # Escape From Satija’s Class
 
 **Group Members:**
